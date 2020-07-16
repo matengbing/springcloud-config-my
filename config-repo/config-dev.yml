@@ -1,0 +1,4 @@
+config:
+  info: info信息
+server:
+  port: 80
