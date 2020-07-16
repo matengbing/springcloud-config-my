@@ -1,4 +1,4 @@
 config:
-  info: info信息
+  info: 修改后的info信息
 server:
   port: 80
